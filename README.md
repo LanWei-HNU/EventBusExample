@@ -1,0 +1,1 @@
+使用guava提供的EventBus进行异步任务解耦示例
