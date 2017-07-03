@@ -1,10 +1,8 @@
 package com.lw.thread;
 
-public class AThread implements Runnable {
+public class AThread implements Runnable{
 	
 	private String name;
-	
-	
 
 	public AThread(String name) {
 		super();
